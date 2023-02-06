@@ -1,4 +1,4 @@
-#  Instructor Demo: Git
+# Instructor Demo: Git
 
 * It is important to be able to store and manage code as well as share it with others. In this class, we will be using a tool called Github.
 
